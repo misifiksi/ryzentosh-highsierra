@@ -1,3 +1,5 @@
+![Screenshot](/COVER2.png?raw=true)
+
 **macOS HIgh Sierra**: 10.13.6 (17G11023) Dual Boot w/ **Windows 10**: 1909 64Bit
 
 **OpenCore version**: 0.5.6  
@@ -27,5 +29,3 @@
   5. Enjoy :)
 
 **NOTE : You CAN NOT use SMBIOS from this repository, it MUST be unique for every macOS installation**
-
-![Screenshot](/COVER2.png?raw=true)
