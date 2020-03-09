@@ -1,4 +1,4 @@
-**macOS version**: 10.13.6 (17G11023) Dual Boot w/ **Windows 10 1909 64Bit**
+**macOS HIgh Sierra**: 10.13.6 (17G11023) Dual Boot w/ **Windows 10 1909 64Bit**
 
 **OpenCore version**: 0.5.6  
 
