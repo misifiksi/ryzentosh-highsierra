@@ -1,4 +1,3 @@
-![Screenshot](/opencore.png?raw=true)
 ![Screenshot](/cover.png?raw=true)
 
 **macOS HIgh Sierra**: 10.13.6 (17G11023) Dual Boot w/ **Windows 10**: 1909 64Bit
