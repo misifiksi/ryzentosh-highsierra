@@ -21,7 +21,7 @@
 5. Kext descriptions: https://kb.amd-osx.com/guides/MJ/kexts.html
 6. ProperTree: https://github.com/corpnewt/ProperTree
 
-## How to use
+## Installation
   1. Create directory "EFI" in your EFI partition (e.g. pendrive or hard drive)
   2. Clone this repo and paste directiories "BOOT" and "OC" onto created directory
   3. Download [**GenSMBIOS**](https://github.com/corpnewt/GenSMBIOS) to generate unique SMBIOS information. Run it and select 
