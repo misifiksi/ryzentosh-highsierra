@@ -1475,7 +1475,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>D25425310QXF8YLAD</string>
+			<string>XXXXXXXXXX</string>
 			<key>ROM</key>
 			<data>ESIzAAAA</data>
 			<key>SpoofVendor</key>
@@ -1483,9 +1483,9 @@
 			<key>SystemProductName</key>
 			<string>iMac14,2</string>
 			<key>SystemSerialNumber</key>
-			<string>D25MW0P8F8JC</string>
+			<string>XXXXXXXX</string>
 			<key>SystemUUID</key>
-			<string>81F68C38-895B-4B8E-9C72-CA504CAFB790</string>
+			<string>XXXXXX-XXXX-XXXX-XXXX-XXXXXXX</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
