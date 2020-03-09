@@ -28,4 +28,4 @@
 
 **NOTE : You CAN NOT use SMBIOS from this repository, it MUST be unique for every macOS installation**
 
-![Screenshot](/screenshot.png?raw=true)
+![Screenshot](/COVER2.png?raw=true)
